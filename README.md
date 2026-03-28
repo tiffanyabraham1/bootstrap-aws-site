@@ -7,7 +7,7 @@ Personal portfolio website built with Bootstrap and deployed on AWS Amplify
 - Hosted on AWS Amplify
 
 ## Live Site
-(Amplify link will go here)
+https://main.d24hs5s72j9p0b.amplifyapp.com/
 
 ## Technologies Used
 - HTML
