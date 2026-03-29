@@ -1,0 +1,50 @@
+/* Background & general text */
+body {
+  font-family: 'Segoe UI', sans-serif;
+  line-height: 1.6;
+  color: #1c1c1c;
+  background-color: #fff8f0;
+}
+
+/* Header */
+h1 {
+    color: #1c1c1c;
+    font-weight: 700;
+    margin-top: 50px;
+}
+
+/* Subheader */
+.lead{
+    color: #555555;
+    font-size: 1.2rem;
+}
+
+/* Image Style */
+img {
+    margin-top: 30px;
+    border-radius: 15px;
+    border: 4px solid #f4c1d1;
+    max-width: 250px;
+}
+
+/* Button Style */
+.btn-primary {
+    background-color: #f4c1d1;
+    border-color: #f4c1d1;
+    color: #1c1c1c;
+    font-weight: 600;
+    padding: 10px 25px;
+    transition: background-color 0.3s ease, border-color 0.3s ease;
+}
+
+.btn-primary:hover {
+    background-color: #eaa7c1;
+    border-color: #eaa7c1;
+    color: #fff;
+}
+
+/* Centering the content */
+.container {
+    text-align: center;
+    margin-top: 50px;
+}
